@@ -21,3 +21,4 @@ print("Lungimea sirului este " + str(len(string)))
 print("Lungimea sirului este", len(string))
 
 #Exercise 4
+# Contribution Fix
